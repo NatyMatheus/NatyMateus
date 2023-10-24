@@ -1,4 +1,4 @@
-### Bem Vindas ao meu perfil 🏐
+### Bem Vindos ao meu perfil 🏐
 
  Meu nome é Nathany Mateus
 
