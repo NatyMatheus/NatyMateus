@@ -6,6 +6,6 @@
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-  ### Entrar em contato comigo 📪
+### Entrar em contato comigo 📪
 
-  nathany.mateus@escola.pr.gov.br
+ nathany.mateus@escola.pr.gov.br
